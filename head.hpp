@@ -2,7 +2,8 @@
 #define BEE03AC6_D507_4072_85C7_D789DC3AA042
 
 #include <iostream>
-#include <string>
+#include <cstring>
+#include <list>
 
 #include "circle_queue.hpp"
 
